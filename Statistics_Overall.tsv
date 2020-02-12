@@ -1,0 +1,139 @@
+Number of species	91
+Number of genes	2552565
+Number of genes in orthogroups	2426273
+Number of unassigned genes	126292
+Percentage of genes in orthogroups	95.1
+Percentage of unassigned genes	4.9
+Number of orthogroups	66817
+Number of species-specific orthogroups	2694
+Number of genes in species-specific orthogroups	10665
+Percentage of genes in species-specific orthogroups	0.4
+Mean orthogroup size	36.3
+Median orthogroup size	5.0
+G50 (assigned genes)	101
+G50 (all genes)	98
+O50 (assigned genes)	5932
+O50 (all genes)	6566
+Number of orthogroups with all species present	2712
+Number of single-copy orthogroups	96
+Date	2020-02-11
+Orthogroups file	Orthogroups.tsv
+Unassigned genes file	Orthogroups_UnassignedGenes.tsv
+Per-species statistics	Statistics_PerSpecies.tsv
+Overall statistics	Statistics_Overall.tsv
+Orthogroups shared between species	Orthogroups_SpeciesOverlaps.tsv
+
+Average number of genes per-species in orthogroup	Number of orthogroups	Percentage of orthogroups	Number of genes	Percentage of genes
+<1	56707	84.9	818002	33.7
+'1	8055	12.1	894208	36.9
+'2	1301	1.9	278925	11.5
+'3	347	0.5	106997	4.4
+'4	137	0.2	54910	2.3
+'5	76	0.1	37529	1.5
+'6	42	0.1	24905	1.0
+'7	23	0.0	15615	0.6
+'8	21	0.0	16008	0.7
+'9	14	0.0	12181	0.5
+'10	12	0.0	11456	0.5
+11-15	40	0.1	47693	2.0
+16-20	15	0.0	24825	1.0
+21-50	25	0.0	63703	2.6
+51-100	1	0.0	5123	0.2
+101-150	0	0.0	0	0.0
+151-200	1	0.0	14193	0.6
+201-500	0	0.0	0	0.0
+501-1000	0	0.0	0	0.0
+'1001+	0	0.0	0	0.0
+
+Number of species in orthogroup	Number of orthogroups
+1	2694
+2	16992
+3	9732
+4	5318
+5	3150
+6	2578
+7	1678
+8	1376
+9	1054
+10	816
+11	597
+12	472
+13	335
+14	341
+15	274
+16	256
+17	212
+18	216
+19	199
+20	180
+21	162
+22	121
+23	117
+24	94
+25	114
+26	105
+27	96
+28	102
+29	101
+30	70
+31	74
+32	72
+33	71
+34	61
+35	59
+36	63
+37	56
+38	75
+39	67
+40	52
+41	53
+42	59
+43	42
+44	60
+45	61
+46	57
+47	52
+48	50
+49	58
+50	57
+51	48
+52	54
+53	75
+54	64
+55	52
+56	64
+57	71
+58	76
+59	75
+60	64
+61	61
+62	71
+63	84
+64	89
+65	98
+66	83
+67	100
+68	92
+69	102
+70	107
+71	120
+72	135
+73	145
+74	155
+75	189
+76	192
+77	219
+78	218
+79	241
+80	237
+81	265
+82	286
+83	344
+84	398
+85	581
+86	831
+87	1081
+88	1553
+89	2171
+90	2463
+91	2712
